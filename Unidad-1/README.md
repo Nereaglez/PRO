@@ -89,4 +89,19 @@ es decir, 1 + 2 + 3 + …. + 10.
 <img src="Imagenes/diagrama-flujo3.drawio.png">
 
 
+### Pseudocódigo
+
+ - Inicio
+ - Declaración de variables:
+__N= 0, Suma = 0__
+ - Asignación Contador :
+__N = N + 1__
+ - Asignación Acumulador:
+__Suma = Suma + N__
+ - Si N = 10 Entonces
+ - Escribir Suma
+ - De lo contrario, Repetir desde el
+paso 3
+ - Fin_Si
+ - __Fin__
 </div> 
