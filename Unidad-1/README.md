@@ -3,7 +3,8 @@
 # Ejercicio 
 
 - [Ejercicio 1](#ejercicio1)
-- [Ejercicio 2](#ejercicio-2)
+- [Ejercicio 2](#ejercicio2)
+- [Ejercicio 3](#ejercicio3)
 
 ## Ejercicio 1 <a name="ejercicio1"></a>
 
@@ -44,6 +45,8 @@ el mayor”__
  - __Fin__
 
 
+
+
  ## Ejercicio 2 <a name="ejercicio2"></a>
 
  Desarrolle un algoritmo que permita leer tres valores y almacenarlos en las variables A, B y C
@@ -73,6 +76,17 @@ y C
  - Fin_Si
  - Fin_Si
  - __Fin__
+
+
+
+ ## Ejercicio 3 <a name="ejercicio3"></a>
+
+ Desarrolle un algoritmo que realice la sumatoria de los números enteros comprendidos entre el 1 y el 10,
+es decir, 1 + 2 + 3 + …. + 10.
+
+### Diagrama de Flujo
+
+<img src="Imagenes/diagrama-flujo3.drawio.png">
 
 
 </div> 
