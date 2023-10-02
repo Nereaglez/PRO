@@ -5,11 +5,12 @@ import java.util.Scanner;
 /**
  * Clase que realiza ele ejrcicio numero 1 de las tareas
  */
-public class Main {
+public class Ejercicio1 {
     public static void main(String[] args) {
 
         int valorA;
         int valorB;
+
 
         Scanner lectura = new Scanner(System.in);
 
